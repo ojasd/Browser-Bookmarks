@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="445b971e-c0ee-4fc8-be11-4f864e167b4d" name="Default" comment="Update index file">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Browser-Bookmarks.iml" afterPath="$PROJECT_DIR$/.idea/Browser-Bookmarks.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+    <list default="true" id="445b971e-c0ee-4fc8-be11-4f864e167b4d" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/index.html" afterPath="$PROJECT_DIR$/app/src/index.html" />
     </list>
     <ignored path="Browser-Bookmarks.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -254,6 +250,13 @@
       <option name="number" value="Default" />
       <updated>1474165178620</updated>
     </task>
+    <task id="LOCAL-00001" summary="Update index file">
+      <created>1474172717324</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1474172717324</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
